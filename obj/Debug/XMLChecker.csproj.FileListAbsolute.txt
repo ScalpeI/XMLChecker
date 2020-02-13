@@ -1,0 +1,11 @@
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\bin\Debug\XMLChecker.exe.config
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\bin\Debug\XMLChecker.exe
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\bin\Debug\XMLChecker.pdb
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\obj\Debug\XMLChecker.Form1.resources
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\obj\Debug\XMLChecker.Properties.Resources.resources
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\obj\Debug\XMLChecker.csproj.GenerateResource.Cache
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\obj\Debug\XMLChecker.exe
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\obj\Debug\XMLChecker.pdb
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\obj\Debug\XMLChecker.AboutBox1.resources
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\obj\Debug\XMLChecker.csprojAssemblyReference.cache
+C:\My Files\Visual Studio\XMLChecker\XMLChecker\obj\Debug\XMLChecker.csproj.CoreCompileInputs.cache
